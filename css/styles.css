@@ -222,14 +222,14 @@
         margin: 20px auto;
     }
 
-    #skills-box {
+    .skills-box {
         flex: 1 1 100%;
         max-width: 100%;
         margin-bottom: 40px;
         text-align: left;
     }
 
-    #skills-box i {
+    .skills-box i {
         font-size: 60px;
     }
 }
